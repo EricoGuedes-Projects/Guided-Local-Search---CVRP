@@ -1,0 +1,35 @@
+Lambda : 0.25
+A-n32-k5
+Total Cost = 774   --  Best Cost = 784
+A-n46-k7
+Total Cost = 914   --  Best Cost = 914
+A-n80-k10
+Total Cost = 1858   --  Best Cost = 1763
+B-n50-k8
+Total Cost = 1329   --  Best Cost = 1312
+B-n78-k10
+Total Cost = 1262   --  Best Cost = 1221
+
+Lambda : 0.55
+A-n32-k5
+Total Cost = 827   --  Best Cost = 784
+A-n46-k7
+Total Cost = 906   --  Best Cost = 914
+A-n80-k10
+Total Cost = 1821   --  Best Cost = 1763
+B-n50-k8
+Total Cost = 1316   --  Best Cost = 1312
+B-n78-k10
+Total Cost = 1278   --  Best Cost = 1221
+
+Lambda : 0.95
+A-n32-k5
+Total Cost = 805   --  Best Cost = 784
+A-n46-k7
+Total Cost = 942   --  Best Cost = 914
+A-n80-k10
+Total Cost = 1789   --  Best Cost = 1763
+B-n50-k8
+Total Cost = 1321   --  Best Cost = 1312
+B-n78-k10
+Total Cost = 1266   --  Best Cost = 1221
