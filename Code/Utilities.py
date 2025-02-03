@@ -35,6 +35,13 @@ def calculate_solution_cost(solution, distance_matrix, depot):
         cost += calculate_route_cost(route, distance_matrix, depot)
     return cost
 
+def calculate_custumer_number(solution):
+    N = 1
+    for route in solution:
+        for i in range(len(route)):
+            N += 1
+    return N
+
 def calculate_vehicle_capacity(route, demands):
     capacity = 0
     for i in route:

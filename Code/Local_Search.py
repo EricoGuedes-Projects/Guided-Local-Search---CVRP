@@ -54,6 +54,7 @@ def local_search(solution, distance_matrix, instance):
     """Greedy local search with best acceptance scheme and optimized performance."""
     depot = instance["depot"]
     demands = instance["demands"]
+    capacity = instance["capacity"]
     vehicle_capacities = [calculate_vehicle_capacity(route, demands) for route in solution]
 
     while True:
@@ -71,7 +72,7 @@ def local_search(solution, distance_matrix, instance):
 
             if improvement > best_improvement:
                 best_improvement = improvement
-                best_solution = solution[:]
+                best_solution = copy.deepcopy(solution[:])
                 best_solution[vehicle] = new_route
 
             # Relocation improvement
@@ -80,7 +81,7 @@ def local_search(solution, distance_matrix, instance):
                     continue
 
                 for from_index, customer in enumerate(current_route):
-                    if vehicle_capacities[other_vehicle] + demands[customer - 1] <= 100:
+                    if vehicle_capacities[other_vehicle] + demands[customer - 1] <= capacity:
                         temp_solution = [route[:] for route in solution]
                         relocate(temp_solution, vehicle, from_index, other_vehicle, 0)
 
@@ -91,9 +92,9 @@ def local_search(solution, distance_matrix, instance):
 
                         improvement = (current_cost + calculate_route_cost(solution[other_vehicle], distance_matrix, depot)) - total_new_cost
 
-                        if improvement > best_improvement and calculate_vehicle_capacity(temp_solution[vehicle], demands) <= 100 and  calculate_vehicle_capacity(temp_solution[other_vehicle], demands) <= 100:
+                        if improvement > best_improvement and calculate_vehicle_capacity(temp_solution[vehicle], demands) <= capacity and  calculate_vehicle_capacity(temp_solution[other_vehicle], demands) <= capacity:
                             best_improvement = improvement
-                            best_solution = temp_solution
+                            best_solution = copy.deepcopy(temp_solution)
 
             # Exchange and Cross improvements (merged for efficiency)
             for other_vehicle in range(len(solution)):
@@ -113,9 +114,10 @@ def local_search(solution, distance_matrix, instance):
 
                         improvement = (current_cost + calculate_route_cost(solution[other_vehicle], distance_matrix, depot)) - total_new_cost
 
-                        if improvement > best_improvement and calculate_vehicle_capacity(temp_solution[vehicle], demands) <= 100 and  calculate_vehicle_capacity(temp_solution[other_vehicle], demands) <= 100:
+                        if improvement > best_improvement and calculate_vehicle_capacity(temp_solution[vehicle], demands) <= capacity and  calculate_vehicle_capacity(temp_solution[other_vehicle], demands) <= capacity:
                             best_improvement = improvement
-                            best_solution = temp_solution
+                            best_solution = copy.deepcopy(temp_solution)
+
 
                         # Cross
                         temp_solution = [route[:] for route in solution]
@@ -128,14 +130,15 @@ def local_search(solution, distance_matrix, instance):
 
                         improvement = (current_cost + calculate_route_cost(solution[other_vehicle], distance_matrix, depot)) - total_new_cost
 
-                        if improvement > best_improvement and calculate_vehicle_capacity(temp_solution[vehicle], demands) <= 100 and  calculate_vehicle_capacity(temp_solution[other_vehicle], demands) <= 100:
+                        if improvement > best_improvement and calculate_vehicle_capacity(temp_solution[vehicle], demands) <= capacity and  calculate_vehicle_capacity(temp_solution[other_vehicle], demands) <= capacity:
                             best_improvement = improvement
-                            best_solution = temp_solution
+                            best_solution = copy.deepcopy(temp_solution)
+
 
         # Stop if no improvements
         if best_improvement <= 0:
             break
 
-        solution = best_solution
+        solution = copy.deepcopy(best_solution)
 
     return solution

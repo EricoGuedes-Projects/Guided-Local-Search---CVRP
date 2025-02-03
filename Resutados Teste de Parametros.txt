@@ -1,35 +1,1368 @@
-Lambda : 0.25
-A-n32-k5
-Total Cost = 774   --  Best Cost = 784
-A-n46-k7
-Total Cost = 914   --  Best Cost = 914
-A-n80-k10
-Total Cost = 1858   --  Best Cost = 1763
-B-n50-k8
-Total Cost = 1329   --  Best Cost = 1312
-B-n78-k10
-Total Cost = 1262   --  Best Cost = 1221
+-----------------------------------------------------------------------------------
+Lambda : 0.25 - Penalidade : 1
+Custo Inicial : 866.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 17.48 - Numero de Iterações da Melhor Solução : 1175
+ Nome da Instancia: A-n32-k5 -> Total Cost = 784.00   --  Best Cost = 784
 
-Lambda : 0.55
-A-n32-k5
-Total Cost = 827   --  Best Cost = 784
-A-n46-k7
-Total Cost = 906   --  Best Cost = 914
-A-n80-k10
-Total Cost = 1821   --  Best Cost = 1763
-B-n50-k8
-Total Cost = 1316   --  Best Cost = 1312
-B-n78-k10
-Total Cost = 1278   --  Best Cost = 1221
+Custo Inicial : 917.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 44.42 - Numero de Iterações da Melhor Solução : 3328
+ Nome da Instancia: A-n32-k5 -> Total Cost = 785.00   --  Best Cost = 784
 
-Lambda : 0.95
-A-n32-k5
-Total Cost = 805   --  Best Cost = 784
-A-n46-k7
-Total Cost = 942   --  Best Cost = 914
-A-n80-k10
-Total Cost = 1789   --  Best Cost = 1763
-B-n50-k8
-Total Cost = 1321   --  Best Cost = 1312
-B-n78-k10
-Total Cost = 1266   --  Best Cost = 1221
+Custo Inicial : 842.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 28.49 - Numero de Iterações da Melhor Solução : 1967
+ Nome da Instancia: A-n32-k5 -> Total Cost = 787.00   --  Best Cost = 784
+
+Custo Inicial : 912.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 29.23 - Numero de Iterações da Melhor Solução : 2078
+ Nome da Instancia: A-n32-k5 -> Total Cost = 788.00   --  Best Cost = 784
+
+Custo Inicial : 943.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 84.23 - Numero de Iterações da Melhor Solução : 6493
+ Nome da Instancia: A-n32-k5 -> Total Cost = 784.00   --  Best Cost = 784
+
+*************************************************************************************************************
+[Melhor Custo : 784.00 | Media do Custo: 785.60]
+[Melhor Tempo : 17.48 | Media de Tempo: 40.77]
+[Melhor Numero de Iterações : 1175.00 | Media do Numero de Iterações: 3008.20]
+*************************************************************************************************************
+Custo Inicial : 1113.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 37.33 - Numero de Iterações da Melhor Solução : 1200
+ Nome da Instancia: A-n46-k7 -> Total Cost = 922.00   --  Best Cost = 914
+
+Custo Inicial : 1069.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 168.44 - Numero de Iterações da Melhor Solução : 5350
+ Nome da Instancia: A-n46-k7 -> Total Cost = 924.00   --  Best Cost = 914
+
+Custo Inicial : 1141.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 264.11 - Numero de Iterações da Melhor Solução : 8300
+ Nome da Instancia: A-n46-k7 -> Total Cost = 915.00   --  Best Cost = 914
+
+Custo Inicial : 1158.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 180.27 - Numero de Iterações da Melhor Solução : 5685
+ Nome da Instancia: A-n46-k7 -> Total Cost = 918.00   --  Best Cost = 914
+
+Custo Inicial : 1020.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 206.16 - Numero de Iterações da Melhor Solução : 6254
+ Nome da Instancia: A-n46-k7 -> Total Cost = 924.00   --  Best Cost = 914
+
+*************************************************************************************************************
+[Melhor Custo : 915.00 | Media do Custo: 920.60]
+[Melhor Tempo : 37.33 | Media de Tempo: 171.26]
+[Melhor Numero de Iterações : 1200.00 | Media do Numero de Iterações: 5357.80]
+*************************************************************************************************************
+Custo Inicial : 1974.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 104.88 - Numero de Iterações da Melhor Solução : 882
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1833.00   --  Best Cost = 1763
+
+Custo Inicial : 1976.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 291.79 - Numero de Iterações da Melhor Solução : 2453
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1898.00   --  Best Cost = 1763
+
+Custo Inicial : 1941.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 192.77 - Numero de Iterações da Melhor Solução : 1657
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1817.00   --  Best Cost = 1763
+
+Custo Inicial : 1932.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 207.60 - Numero de Iterações da Melhor Solução : 1817
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1816.00   --  Best Cost = 1763
+
+Custo Inicial : 2015.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 171.33 - Numero de Iterações da Melhor Solução : 1527
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1862.00   --  Best Cost = 1763
+
+*************************************************************************************************************
+[Melhor Custo : 1816.00 | Media do Custo: 1845.20]
+[Melhor Tempo : 104.88 | Media de Tempo: 193.67]
+[Melhor Numero de Iterações : 882.00 | Media do Numero de Iterações: 1667.20]
+*************************************************************************************************************
+Custo Inicial : 1357.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 49.69 - Numero de Iterações da Melhor Solução : 1312
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1322.00   --  Best Cost = 1312
+
+Custo Inicial : 1428.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 288.99 - Numero de Iterações da Melhor Solução : 7996
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1335.00   --  Best Cost = 1312
+
+Custo Inicial : 1345.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 233.04 - Numero de Iterações da Melhor Solução : 6453
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1324.00   --  Best Cost = 1312
+
+Custo Inicial : 1339.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 24.36 - Numero de Iterações da Melhor Solução : 676
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1323.00   --  Best Cost = 1312
+
+Custo Inicial : 1411.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 298.92 - Numero de Iterações da Melhor Solução : 8030
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1340.00   --  Best Cost = 1312
+
+*************************************************************************************************************
+[Melhor Custo : 1322.00 | Media do Custo: 1328.80]
+[Melhor Tempo : 24.36 | Media de Tempo: 179.00]
+[Melhor Numero de Iterações : 676.00 | Media do Numero de Iterações: 4893.40]
+*************************************************************************************************************
+Custo Inicial : 1372.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 217.82 - Numero de Iterações da Melhor Solução : 1919
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1284.00   --  Best Cost = 1221
+
+Custo Inicial : 1416.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 282.69 - Numero de Iterações da Melhor Solução : 2482
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1282.00   --  Best Cost = 1221
+
+Custo Inicial : 1366.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 108.34 - Numero de Iterações da Melhor Solução : 988
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1290.00   --  Best Cost = 1221
+
+Custo Inicial : 1391.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 196.64 - Numero de Iterações da Melhor Solução : 1823
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1274.00   --  Best Cost = 1221
+
+Custo Inicial : 1455.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 220.84 - Numero de Iterações da Melhor Solução : 2028
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1295.00   --  Best Cost = 1221
+
+*************************************************************************************************************
+[Melhor Custo : 1274.00 | Media do Custo: 1285.00]
+[Melhor Tempo : 108.34 | Media de Tempo: 205.26]
+[Melhor Numero de Iterações : 988.00 | Media do Numero de Iterações: 1848.00]
+*************************************************************************************************************
+-----------------------------------------------------------------------------------
+Lambda : 0.55 - Penalidade : 1
+Custo Inicial : 914.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 56.02 - Numero de Iterações da Melhor Solução : 3283
+ Nome da Instancia: A-n32-k5 -> Total Cost = 784.00   --  Best Cost = 784
+
+Custo Inicial : 855.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 48.05 - Numero de Iterações da Melhor Solução : 2694
+ Nome da Instancia: A-n32-k5 -> Total Cost = 789.00   --  Best Cost = 784
+
+Custo Inicial : 943.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 160.19 - Numero de Iterações da Melhor Solução : 9133
+ Nome da Instancia: A-n32-k5 -> Total Cost = 785.00   --  Best Cost = 784
+
+Custo Inicial : 844.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 178.50 - Numero de Iterações da Melhor Solução : 9875
+ Nome da Instancia: A-n32-k5 -> Total Cost = 786.00   --  Best Cost = 784
+
+Custo Inicial : 860.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 59.12 - Numero de Iterações da Melhor Solução : 3315
+ Nome da Instancia: A-n32-k5 -> Total Cost = 790.00   --  Best Cost = 784
+
+*************************************************************************************************************
+[Melhor Custo : 784.00 | Media do Custo: 786.80]
+[Melhor Tempo : 48.05 | Media de Tempo: 100.37]
+[Melhor Numero de Iterações : 2694.00 | Media do Numero de Iterações: 5660.00]
+*************************************************************************************************************
+Custo Inicial : 1012.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 11.76 - Numero de Iterações da Melhor Solução : 319
+ Nome da Instancia: A-n46-k7 -> Total Cost = 918.00   --  Best Cost = 914
+
+Custo Inicial : 1056.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 65.63 - Numero de Iterações da Melhor Solução : 1658
+ Nome da Instancia: A-n46-k7 -> Total Cost = 924.00   --  Best Cost = 914
+
+Custo Inicial : 1177.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 85.18 - Numero de Iterações da Melhor Solução : 2151
+ Nome da Instancia: A-n46-k7 -> Total Cost = 914.00   --  Best Cost = 914
+
+Custo Inicial : 1025.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 134.26 - Numero de Iterações da Melhor Solução : 3400
+ Nome da Instancia: A-n46-k7 -> Total Cost = 920.00   --  Best Cost = 914
+
+Custo Inicial : 1170.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 10.92 - Numero de Iterações da Melhor Solução : 292
+ Nome da Instancia: A-n46-k7 -> Total Cost = 918.00   --  Best Cost = 914
+
+*************************************************************************************************************
+[Melhor Custo : 914.00 | Media do Custo: 918.80]
+[Melhor Tempo : 10.92 | Media de Tempo: 61.55]
+[Melhor Numero de Iterações : 292.00 | Media do Numero de Iterações: 1564.00]
+*************************************************************************************************************
+Custo Inicial : 2014.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 245.15 - Numero de Iterações da Melhor Solução : 1600
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1840.00   --  Best Cost = 1763
+
+Custo Inicial : 2038.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 215.48 - Numero de Iterações da Melhor Solução : 1350
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1836.00   --  Best Cost = 1763
+
+Custo Inicial : 1921.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 259.62 - Numero de Iterações da Melhor Solução : 1551
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1800.00   --  Best Cost = 1763
+
+Custo Inicial : 1960.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 223.39 - Numero de Iterações da Melhor Solução : 1463
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1833.00   --  Best Cost = 1763
+
+Custo Inicial : 2016.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 233.26 - Numero de Iterações da Melhor Solução : 1598
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1855.00   --  Best Cost = 1763
+
+*************************************************************************************************************
+[Melhor Custo : 1800.00 | Media do Custo: 1832.80]
+[Melhor Tempo : 215.48 | Media de Tempo: 235.38]
+[Melhor Numero de Iterações : 1350.00 | Media do Numero de Iterações: 1512.40]
+*************************************************************************************************************
+Custo Inicial : 1481.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 78.29 - Numero de Iterações da Melhor Solução : 1718
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1324.00   --  Best Cost = 1312
+
+Custo Inicial : 1459.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 226.73 - Numero de Iterações da Melhor Solução : 4761
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1324.00   --  Best Cost = 1312
+
+Custo Inicial : 1418.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 25.82 - Numero de Iterações da Melhor Solução : 559
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1318.00   --  Best Cost = 1312
+
+Custo Inicial : 1463.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 76.93 - Numero de Iterações da Melhor Solução : 1679
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1326.00   --  Best Cost = 1312
+
+Custo Inicial : 1436.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 44.89 - Numero de Iterações da Melhor Solução : 995
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1321.00   --  Best Cost = 1312
+
+*************************************************************************************************************
+[Melhor Custo : 1318.00 | Media do Custo: 1322.60]
+[Melhor Tempo : 25.82 | Media de Tempo: 90.53]
+[Melhor Numero de Iterações : 559.00 | Media do Numero de Iterações: 1942.40]
+*************************************************************************************************************
+Custo Inicial : 1461.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 163.78 - Numero de Iterações da Melhor Solução : 1131
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1259.00   --  Best Cost = 1221
+
+Custo Inicial : 1401.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 86.37 - Numero de Iterações da Melhor Solução : 621
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1263.00   --  Best Cost = 1221
+
+Custo Inicial : 1446.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 191.88 - Numero de Iterações da Melhor Solução : 1408
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1250.00   --  Best Cost = 1221
+
+Custo Inicial : 1371.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 298.16 - Numero de Iterações da Melhor Solução : 1962
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1265.00   --  Best Cost = 1221
+
+Custo Inicial : 1362.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 126.65 - Numero de Iterações da Melhor Solução : 892
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1256.00   --  Best Cost = 1221
+
+*************************************************************************************************************
+[Melhor Custo : 1250.00 | Media do Custo: 1258.60]
+[Melhor Tempo : 86.37 | Media de Tempo: 173.37]
+[Melhor Numero de Iterações : 621.00 | Media do Numero de Iterações: 1202.80]
+*************************************************************************************************************
+-----------------------------------------------------------------------------------
+Lambda : 0.95 - Penalidade : 1
+Custo Inicial : 884.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 21.55 - Numero de Iterações da Melhor Solução : 1223
+ Nome da Instancia: A-n32-k5 -> Total Cost = 785.00   --  Best Cost = 784
+
+Custo Inicial : 827.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 13.54 - Numero de Iterações da Melhor Solução : 783
+ Nome da Instancia: A-n32-k5 -> Total Cost = 785.00   --  Best Cost = 784
+
+Custo Inicial : 880.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 182.19 - Numero de Iterações da Melhor Solução : 9817
+ Nome da Instancia: A-n32-k5 -> Total Cost = 790.00   --  Best Cost = 784
+
+Custo Inicial : 807.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 25.84 - Numero de Iterações da Melhor Solução : 1390
+ Nome da Instancia: A-n32-k5 -> Total Cost = 789.00   --  Best Cost = 784
+
+Custo Inicial : 1025.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 27.09 - Numero de Iterações da Melhor Solução : 1582
+ Nome da Instancia: A-n32-k5 -> Total Cost = 789.00   --  Best Cost = 784
+
+*************************************************************************************************************
+[Melhor Custo : 785.00 | Media do Custo: 787.60]
+[Melhor Tempo : 13.54 | Media de Tempo: 54.04]
+[Melhor Numero de Iterações : 783.00 | Media do Numero de Iterações: 2959.00]
+*************************************************************************************************************
+Custo Inicial : 1111.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 77.43 - Numero de Iterações da Melhor Solução : 1829
+ Nome da Instancia: A-n46-k7 -> Total Cost = 922.00   --  Best Cost = 914
+
+Custo Inicial : 1069.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 237.61 - Numero de Iterações da Melhor Solução : 5495
+ Nome da Instancia: A-n46-k7 -> Total Cost = 925.00   --  Best Cost = 914
+
+Custo Inicial : 999.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 35.22 - Numero de Iterações da Melhor Solução : 820
+ Nome da Instancia: A-n46-k7 -> Total Cost = 931.00   --  Best Cost = 914
+
+Custo Inicial : 1010.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 220.73 - Numero de Iterações da Melhor Solução : 5033
+ Nome da Instancia: A-n46-k7 -> Total Cost = 922.00   --  Best Cost = 914
+
+Custo Inicial : 1072.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 123.06 - Numero de Iterações da Melhor Solução : 2615
+ Nome da Instancia: A-n46-k7 -> Total Cost = 925.00   --  Best Cost = 914
+
+*************************************************************************************************************
+[Melhor Custo : 922.00 | Media do Custo: 925.00]
+[Melhor Tempo : 35.22 | Media de Tempo: 138.81]
+[Melhor Numero de Iterações : 820.00 | Media do Numero de Iterações: 3158.40]
+*************************************************************************************************************
+Custo Inicial : 2000.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 168.20 - Numero de Iterações da Melhor Solução : 1018
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1808.00   --  Best Cost = 1763
+
+Custo Inicial : 2396.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 282.03 - Numero de Iterações da Melhor Solução : 1752
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1825.00   --  Best Cost = 1763
+
+Custo Inicial : 1924.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 210.43 - Numero de Iterações da Melhor Solução : 1259
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1829.00   --  Best Cost = 1763
+
+Custo Inicial : 1901.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 257.34 - Numero de Iterações da Melhor Solução : 1501
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1808.00   --  Best Cost = 1763
+
+Custo Inicial : 2369.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 235.11 - Numero de Iterações da Melhor Solução : 1413
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1816.00   --  Best Cost = 1763
+
+*************************************************************************************************************
+[Melhor Custo : 1808.00 | Media do Custo: 1817.20]
+[Melhor Tempo : 168.20 | Media de Tempo: 230.62]
+[Melhor Numero de Iterações : 1018.00 | Media do Numero de Iterações: 1388.60]
+*************************************************************************************************************
+Custo Inicial : 1385.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 28.44 - Numero de Iterações da Melhor Solução : 528
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1328.00   --  Best Cost = 1312
+
+Custo Inicial : 1441.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 31.27 - Numero de Iterações da Melhor Solução : 586
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1321.00   --  Best Cost = 1312
+
+Custo Inicial : 1437.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 148.37 - Numero de Iterações da Melhor Solução : 2917
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1323.00   --  Best Cost = 1312
+
+Custo Inicial : 1384.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 84.02 - Numero de Iterações da Melhor Solução : 1582
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1318.00   --  Best Cost = 1312
+
+Custo Inicial : 1410.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 92.30 - Numero de Iterações da Melhor Solução : 1692
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1313.00   --  Best Cost = 1312
+
+*************************************************************************************************************
+[Melhor Custo : 1313.00 | Media do Custo: 1320.60]
+[Melhor Tempo : 28.44 | Media de Tempo: 76.88]
+[Melhor Numero de Iterações : 528.00 | Media do Numero de Iterações: 1461.00]
+*************************************************************************************************************
+Custo Inicial : 1366.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 252.07 - Numero de Iterações da Melhor Solução : 1584
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1278.00   --  Best Cost = 1221
+
+Custo Inicial : 1384.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 223.60 - Numero de Iterações da Melhor Solução : 1447
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1261.00   --  Best Cost = 1221
+
+Custo Inicial : 1350.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 243.15 - Numero de Iterações da Melhor Solução : 1570
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1256.00   --  Best Cost = 1221
+
+Custo Inicial : 1363.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 219.42 - Numero de Iterações da Melhor Solução : 1353
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1290.00   --  Best Cost = 1221
+
+Custo Inicial : 1375.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 166.24 - Numero de Iterações da Melhor Solução : 1065
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1302.00   --  Best Cost = 1221
+
+*************************************************************************************************************
+[Melhor Custo : 1256.00 | Media do Custo: 1277.40]
+[Melhor Tempo : 166.24 | Media de Tempo: 220.89]
+[Melhor Numero de Iterações : 1065.00 | Media do Numero de Iterações: 1403.80]
+*************************************************************************************************************
+-----------------------------------------------------------------------------------
+Lambda : 0.25 - Penalidade : 5
+Custo Inicial : 915.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 57.26 - Numero de Iterações da Melhor Solução : 2944
+ Nome da Instancia: A-n32-k5 -> Total Cost = 785.00   --  Best Cost = 784
+
+Custo Inicial : 1092.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 56.59 - Numero de Iterações da Melhor Solução : 3001
+ Nome da Instancia: A-n32-k5 -> Total Cost = 790.00   --  Best Cost = 784
+
+Custo Inicial : 835.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 46.14 - Numero de Iterações da Melhor Solução : 2525
+ Nome da Instancia: A-n32-k5 -> Total Cost = 785.00   --  Best Cost = 784
+
+Custo Inicial : 873.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 1.12 - Numero de Iterações da Melhor Solução : 58
+ Nome da Instancia: A-n32-k5 -> Total Cost = 786.00   --  Best Cost = 784
+
+Custo Inicial : 828.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 22.47 - Numero de Iterações da Melhor Solução : 1211
+ Nome da Instancia: A-n32-k5 -> Total Cost = 788.00   --  Best Cost = 784
+
+*************************************************************************************************************
+[Melhor Custo : 785.00 | Media do Custo: 786.80]
+[Melhor Tempo : 1.12 | Media de Tempo: 36.72]
+[Melhor Numero de Iterações : 58.00 | Media do Numero de Iterações: 1947.80]
+*************************************************************************************************************
+Custo Inicial : 1025.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 132.35 - Numero de Iterações da Melhor Solução : 3039
+ Nome da Instancia: A-n46-k7 -> Total Cost = 928.00   --  Best Cost = 914
+
+Custo Inicial : 1041.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 215.79 - Numero de Iterações da Melhor Solução : 4765
+ Nome da Instancia: A-n46-k7 -> Total Cost = 923.00   --  Best Cost = 914
+
+Custo Inicial : 1072.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 127.82 - Numero de Iterações da Melhor Solução : 2854
+ Nome da Instancia: A-n46-k7 -> Total Cost = 923.00   --  Best Cost = 914
+
+Custo Inicial : 1079.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 154.15 - Numero de Iterações da Melhor Solução : 3456
+ Nome da Instancia: A-n46-k7 -> Total Cost = 918.00   --  Best Cost = 914
+
+Custo Inicial : 1022.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 35.71 - Numero de Iterações da Melhor Solução : 784
+ Nome da Instancia: A-n46-k7 -> Total Cost = 930.00   --  Best Cost = 914
+
+*************************************************************************************************************
+[Melhor Custo : 918.00 | Media do Custo: 924.40]
+[Melhor Tempo : 35.71 | Media de Tempo: 133.16]
+[Melhor Numero de Iterações : 784.00 | Media do Numero de Iterações: 2979.60]
+*************************************************************************************************************
+Custo Inicial : 1983.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 147.12 - Numero de Iterações da Melhor Solução : 856
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1859.00   --  Best Cost = 1763
+
+Custo Inicial : 1941.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 122.04 - Numero de Iterações da Melhor Solução : 719
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1820.00   --  Best Cost = 1763
+
+Custo Inicial : 1987.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 255.57 - Numero de Iterações da Melhor Solução : 1470
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1873.00   --  Best Cost = 1763
+
+Custo Inicial : 2058.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 74.62 - Numero de Iterações da Melhor Solução : 429
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1828.00   --  Best Cost = 1763
+
+Custo Inicial : 1987.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 293.79 - Numero de Iterações da Melhor Solução : 1740
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1808.00   --  Best Cost = 1763
+
+*************************************************************************************************************
+[Melhor Custo : 1808.00 | Media do Custo: 1837.60]
+[Melhor Tempo : 74.62 | Media de Tempo: 178.63]
+[Melhor Numero de Iterações : 429.00 | Media do Numero de Iterações: 1042.80]
+*************************************************************************************************************
+Custo Inicial : 1402.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 65.10 - Numero de Iterações da Melhor Solução : 1198
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1327.00   --  Best Cost = 1312
+
+Custo Inicial : 1407.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 23.41 - Numero de Iterações da Melhor Solução : 449
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1329.00   --  Best Cost = 1312
+
+Custo Inicial : 1380.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 31.27 - Numero de Iterações da Melhor Solução : 592
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1325.00   --  Best Cost = 1312
+
+Custo Inicial : 1350.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 18.19 - Numero de Iterações da Melhor Solução : 354
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1328.00   --  Best Cost = 1312
+
+Custo Inicial : 1450.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 117.06 - Numero de Iterações da Melhor Solução : 2230
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1324.00   --  Best Cost = 1312
+
+*************************************************************************************************************
+[Melhor Custo : 1324.00 | Media do Custo: 1326.60]
+[Melhor Tempo : 18.19 | Media de Tempo: 51.01]
+[Melhor Numero de Iterações : 354.00 | Media do Numero de Iterações: 964.60]
+*************************************************************************************************************
+Custo Inicial : 1339.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 165.94 - Numero de Iterações da Melhor Solução : 1069
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1245.00   --  Best Cost = 1221
+
+Custo Inicial : 1427.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 280.18 - Numero de Iterações da Melhor Solução : 1760
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1292.00   --  Best Cost = 1221
+
+Custo Inicial : 1379.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 153.83 - Numero de Iterações da Melhor Solução : 970
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1280.00   --  Best Cost = 1221
+
+Custo Inicial : 1401.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 95.61 - Numero de Iterações da Melhor Solução : 589
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1259.00   --  Best Cost = 1221
+
+Custo Inicial : 1396.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 161.48 - Numero de Iterações da Melhor Solução : 1050
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1235.00   --  Best Cost = 1221
+
+*************************************************************************************************************
+[Melhor Custo : 1235.00 | Media do Custo: 1262.20]
+[Melhor Tempo : 95.61 | Media de Tempo: 171.41]
+[Melhor Numero de Iterações : 589.00 | Media do Numero de Iterações: 1087.60]
+*************************************************************************************************************
+-----------------------------------------------------------------------------------
+Lambda : 0.55 - Penalidade : 5
+Custo Inicial : 848.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 66.93 - Numero de Iterações da Melhor Solução : 3435
+ Nome da Instancia: A-n32-k5 -> Total Cost = 786.00   --  Best Cost = 784
+
+Custo Inicial : 840.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 44.24 - Numero de Iterações da Melhor Solução : 2310
+ Nome da Instancia: A-n32-k5 -> Total Cost = 791.00   --  Best Cost = 784
+
+Custo Inicial : 898.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 15.25 - Numero de Iterações da Melhor Solução : 756
+ Nome da Instancia: A-n32-k5 -> Total Cost = 793.00   --  Best Cost = 784
+
+Custo Inicial : 841.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 128.53 - Numero de Iterações da Melhor Solução : 6720
+ Nome da Instancia: A-n32-k5 -> Total Cost = 789.00   --  Best Cost = 784
+
+Custo Inicial : 1038.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 37.36 - Numero de Iterações da Melhor Solução : 1941
+ Nome da Instancia: A-n32-k5 -> Total Cost = 789.00   --  Best Cost = 784
+
+*************************************************************************************************************
+[Melhor Custo : 786.00 | Media do Custo: 789.60]
+[Melhor Tempo : 15.25 | Media de Tempo: 58.46]
+[Melhor Numero de Iterações : 756.00 | Media do Numero de Iterações: 3032.40]
+*************************************************************************************************************
+Custo Inicial : 1013.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 27.76 - Numero de Iterações da Melhor Solução : 582
+ Nome da Instancia: A-n46-k7 -> Total Cost = 922.00   --  Best Cost = 914
+
+Custo Inicial : 981.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 102.39 - Numero de Iterações da Melhor Solução : 2216
+ Nome da Instancia: A-n46-k7 -> Total Cost = 925.00   --  Best Cost = 914
+
+Custo Inicial : 965.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 2.49 - Numero de Iterações da Melhor Solução : 57
+ Nome da Instancia: A-n46-k7 -> Total Cost = 926.00   --  Best Cost = 914
+
+Custo Inicial : 1160.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 211.29 - Numero de Iterações da Melhor Solução : 4653
+ Nome da Instancia: A-n46-k7 -> Total Cost = 937.00   --  Best Cost = 914
+
+Custo Inicial : 1043.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 27.55 - Numero de Iterações da Melhor Solução : 593
+ Nome da Instancia: A-n46-k7 -> Total Cost = 928.00   --  Best Cost = 914
+
+*************************************************************************************************************
+[Melhor Custo : 922.00 | Media do Custo: 927.60]
+[Melhor Tempo : 2.49 | Media de Tempo: 74.29]
+[Melhor Numero de Iterações : 57.00 | Media do Numero de Iterações: 1620.20]
+*************************************************************************************************************
+Custo Inicial : 2085.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 77.84 - Numero de Iterações da Melhor Solução : 417
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1819.00   --  Best Cost = 1763
+
+Custo Inicial : 1998.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 205.76 - Numero de Iterações da Melhor Solução : 1117
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1811.00   --  Best Cost = 1763
+
+Custo Inicial : 1999.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 234.72 - Numero de Iterações da Melhor Solução : 1250
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1814.00   --  Best Cost = 1763
+
+Custo Inicial : 2031.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 291.16 - Numero de Iterações da Melhor Solução : 1546
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1801.00   --  Best Cost = 1763
+
+Custo Inicial : 1990.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 195.40 - Numero de Iterações da Melhor Solução : 1014
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1791.00   --  Best Cost = 1763
+
+*************************************************************************************************************
+[Melhor Custo : 1791.00 | Media do Custo: 1807.20]
+[Melhor Tempo : 77.84 | Media de Tempo: 200.98]
+[Melhor Numero de Iterações : 417.00 | Media do Numero de Iterações: 1068.80]
+*************************************************************************************************************
+Custo Inicial : 1370.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 33.53 - Numero de Iterações da Melhor Solução : 576
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1328.00   --  Best Cost = 1312
+
+Custo Inicial : 1430.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 70.08 - Numero de Iterações da Melhor Solução : 1219
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1328.00   --  Best Cost = 1312
+
+Custo Inicial : 1419.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 19.51 - Numero de Iterações da Melhor Solução : 336
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1325.00   --  Best Cost = 1312
+
+Custo Inicial : 1416.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 15.57 - Numero de Iterações da Melhor Solução : 270
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1326.00   --  Best Cost = 1312
+
+Custo Inicial : 1354.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 31.15 - Numero de Iterações da Melhor Solução : 540
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1313.00   --  Best Cost = 1312
+
+*************************************************************************************************************
+[Melhor Custo : 1313.00 | Media do Custo: 1324.00]
+[Melhor Tempo : 15.57 | Media de Tempo: 33.97]
+[Melhor Numero de Iterações : 270.00 | Media do Numero de Iterações: 588.20]
+*************************************************************************************************************
+Custo Inicial : 1326.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 87.13 - Numero de Iterações da Melhor Solução : 513
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1253.00   --  Best Cost = 1221
+
+Custo Inicial : 1348.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 175.03 - Numero de Iterações da Melhor Solução : 1003
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1296.00   --  Best Cost = 1221
+
+Custo Inicial : 1344.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 188.01 - Numero de Iterações da Melhor Solução : 1062
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1235.00   --  Best Cost = 1221
+
+Custo Inicial : 1426.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 278.41 - Numero de Iterações da Melhor Solução : 1578
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1277.00   --  Best Cost = 1221
+
+Custo Inicial : 1365.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 89.84 - Numero de Iterações da Melhor Solução : 521
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1239.00   --  Best Cost = 1221
+
+*************************************************************************************************************
+[Melhor Custo : 1235.00 | Media do Custo: 1260.00]
+[Melhor Tempo : 87.13 | Media de Tempo: 163.69]
+[Melhor Numero de Iterações : 513.00 | Media do Numero de Iterações: 935.40]
+*************************************************************************************************************
+-----------------------------------------------------------------------------------
+Lambda : 0.95 - Penalidade : 5
+Custo Inicial : 1025.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 2.16 - Numero de Iterações da Melhor Solução : 95
+ Nome da Instancia: A-n32-k5 -> Total Cost = 789.00   --  Best Cost = 784
+
+Custo Inicial : 850.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 12.60 - Numero de Iterações da Melhor Solução : 608
+ Nome da Instancia: A-n32-k5 -> Total Cost = 792.00   --  Best Cost = 784
+
+Custo Inicial : 918.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 9.63 - Numero de Iterações da Melhor Solução : 459
+ Nome da Instancia: A-n32-k5 -> Total Cost = 789.00   --  Best Cost = 784
+
+Custo Inicial : 956.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 4.63 - Numero de Iterações da Melhor Solução : 216
+ Nome da Instancia: A-n32-k5 -> Total Cost = 786.00   --  Best Cost = 784
+
+Custo Inicial : 933.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 14.84 - Numero de Iterações da Melhor Solução : 710
+ Nome da Instancia: A-n32-k5 -> Total Cost = 791.00   --  Best Cost = 784
+
+*************************************************************************************************************
+[Melhor Custo : 786.00 | Media do Custo: 789.40]
+[Melhor Tempo : 2.16 | Media de Tempo: 8.77]
+[Melhor Numero de Iterações : 95.00 | Media do Numero de Iterações: 417.60]
+*************************************************************************************************************
+Custo Inicial : 1081.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 26.45 - Numero de Iterações da Melhor Solução : 510
+ Nome da Instancia: A-n46-k7 -> Total Cost = 926.00   --  Best Cost = 914
+
+Custo Inicial : 1045.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 33.71 - Numero de Iterações da Melhor Solução : 689
+ Nome da Instancia: A-n46-k7 -> Total Cost = 918.00   --  Best Cost = 914
+
+Custo Inicial : 1026.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 30.90 - Numero de Iterações da Melhor Solução : 610
+ Nome da Instancia: A-n46-k7 -> Total Cost = 928.00   --  Best Cost = 914
+
+Custo Inicial : 1021.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 78.50 - Numero de Iterações da Melhor Solução : 1530
+ Nome da Instancia: A-n46-k7 -> Total Cost = 927.00   --  Best Cost = 914
+
+Custo Inicial : 1013.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 199.33 - Numero de Iterações da Melhor Solução : 3941
+ Nome da Instancia: A-n46-k7 -> Total Cost = 934.00   --  Best Cost = 914
+
+*************************************************************************************************************
+[Melhor Custo : 918.00 | Media do Custo: 926.60]
+[Melhor Tempo : 26.45 | Media de Tempo: 73.78]
+[Melhor Numero de Iterações : 510.00 | Media do Numero de Iterações: 1456.00]
+*************************************************************************************************************
+Custo Inicial : 1980.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 257.39 - Numero de Iterações da Melhor Solução : 1276
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1804.00   --  Best Cost = 1763
+
+Custo Inicial : 2082.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 205.27 - Numero de Iterações da Melhor Solução : 1015
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1810.00   --  Best Cost = 1763
+
+Custo Inicial : 1937.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 53.73 - Numero de Iterações da Melhor Solução : 267
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1835.00   --  Best Cost = 1763
+
+Custo Inicial : 1980.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 263.42 - Numero de Iterações da Melhor Solução : 1328
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1820.00   --  Best Cost = 1763
+
+Custo Inicial : 2080.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 232.21 - Numero de Iterações da Melhor Solução : 1151
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1807.00   --  Best Cost = 1763
+
+*************************************************************************************************************
+[Melhor Custo : 1804.00 | Media do Custo: 1815.20]
+[Melhor Tempo : 53.73 | Media de Tempo: 202.40]
+[Melhor Numero de Iterações : 267.00 | Media do Numero de Iterações: 1007.40]
+*************************************************************************************************************
+Custo Inicial : 1442.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 53.76 - Numero de Iterações da Melhor Solução : 847
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1332.00   --  Best Cost = 1312
+
+Custo Inicial : 1440.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 103.04 - Numero de Iterações da Melhor Solução : 1591
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1330.00   --  Best Cost = 1312
+
+Custo Inicial : 1425.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 0.88 - Numero de Iterações da Melhor Solução : 9
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1331.00   --  Best Cost = 1312
+
+Custo Inicial : 1351.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 7.19 - Numero de Iterações da Melhor Solução : 118
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1331.00   --  Best Cost = 1312
+
+Custo Inicial : 1355.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 39.90 - Numero de Iterações da Melhor Solução : 628
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1325.00   --  Best Cost = 1312
+
+*************************************************************************************************************
+[Melhor Custo : 1325.00 | Media do Custo: 1329.80]
+[Melhor Tempo : 0.88 | Media de Tempo: 40.95]
+[Melhor Numero de Iterações : 9.00 | Media do Numero de Iterações: 638.60]
+*************************************************************************************************************
+Custo Inicial : 1501.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 182.90 - Numero de Iterações da Melhor Solução : 977
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1278.00   --  Best Cost = 1221
+
+Custo Inicial : 1408.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 71.34 - Numero de Iterações da Melhor Solução : 378
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1275.00   --  Best Cost = 1221
+
+Custo Inicial : 1386.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 177.18 - Numero de Iterações da Melhor Solução : 956
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1291.00   --  Best Cost = 1221
+
+Custo Inicial : 1408.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 164.24 - Numero de Iterações da Melhor Solução : 874
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1258.00   --  Best Cost = 1221
+
+Custo Inicial : 1350.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 131.29 - Numero de Iterações da Melhor Solução : 718
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1285.00   --  Best Cost = 1221
+
+*************************************************************************************************************
+[Melhor Custo : 1258.00 | Media do Custo: 1277.40]
+[Melhor Tempo : 71.34 | Media de Tempo: 145.39]
+[Melhor Numero de Iterações : 378.00 | Media do Numero de Iterações: 780.60]
+*************************************************************************************************************
+-----------------------------------------------------------------------------------
+Lambda : 0.25 - Penalidade : 10
+Custo Inicial : 883.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 38.69 - Numero de Iterações da Melhor Solução : 1950
+ Nome da Instancia: A-n32-k5 -> Total Cost = 786.00   --  Best Cost = 784
+
+Custo Inicial : 937.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 1.86 - Numero de Iterações da Melhor Solução : 96
+ Nome da Instancia: A-n32-k5 -> Total Cost = 786.00   --  Best Cost = 784
+
+Custo Inicial : 1120.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 74.70 - Numero de Iterações da Melhor Solução : 3968
+ Nome da Instancia: A-n32-k5 -> Total Cost = 789.00   --  Best Cost = 784
+
+Custo Inicial : 928.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 10.76 - Numero de Iterações da Melhor Solução : 564
+ Nome da Instancia: A-n32-k5 -> Total Cost = 789.00   --  Best Cost = 784
+
+Custo Inicial : 878.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 22.73 - Numero de Iterações da Melhor Solução : 1218
+ Nome da Instancia: A-n32-k5 -> Total Cost = 792.00   --  Best Cost = 784
+
+*************************************************************************************************************
+[Melhor Custo : 786.00 | Media do Custo: 788.40]
+[Melhor Tempo : 1.86 | Media de Tempo: 29.75]
+[Melhor Numero de Iterações : 96.00 | Media do Numero de Iterações: 1559.20]
+*************************************************************************************************************
+Custo Inicial : 1055.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 90.52 - Numero de Iterações da Melhor Solução : 2004
+ Nome da Instancia: A-n46-k7 -> Total Cost = 926.00   --  Best Cost = 914
+
+Custo Inicial : 1115.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 292.02 - Numero de Iterações da Melhor Solução : 6424
+ Nome da Instancia: A-n46-k7 -> Total Cost = 924.00   --  Best Cost = 914
+
+Custo Inicial : 1097.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 61.06 - Numero de Iterações da Melhor Solução : 1339
+ Nome da Instancia: A-n46-k7 -> Total Cost = 926.00   --  Best Cost = 914
+
+Custo Inicial : 928.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 0.72 - Numero de Iterações da Melhor Solução : 16
+ Nome da Instancia: A-n46-k7 -> Total Cost = 922.00   --  Best Cost = 914
+
+Custo Inicial : 1122.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 4.01 - Numero de Iterações da Melhor Solução : 90
+ Nome da Instancia: A-n46-k7 -> Total Cost = 924.00   --  Best Cost = 914
+
+*************************************************************************************************************
+[Melhor Custo : 922.00 | Media do Custo: 924.40]
+[Melhor Tempo : 0.72 | Media de Tempo: 89.67]
+[Melhor Numero de Iterações : 16.00 | Media do Numero de Iterações: 1974.60]
+*************************************************************************************************************
+Custo Inicial : 2043.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 149.82 - Numero de Iterações da Melhor Solução : 802
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1788.00   --  Best Cost = 1763
+
+Custo Inicial : 1978.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 283.66 - Numero de Iterações da Melhor Solução : 1572
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1807.00   --  Best Cost = 1763
+
+Custo Inicial : 1966.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 155.49 - Numero de Iterações da Melhor Solução : 847
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1796.00   --  Best Cost = 1763
+
+Custo Inicial : 2075.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 79.85 - Numero de Iterações da Melhor Solução : 431
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1843.00   --  Best Cost = 1763
+
+Custo Inicial : 1933.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 50.23 - Numero de Iterações da Melhor Solução : 256
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1800.00   --  Best Cost = 1763
+
+*************************************************************************************************************
+[Melhor Custo : 1788.00 | Media do Custo: 1806.80]
+[Melhor Tempo : 50.23 | Media de Tempo: 143.81]
+[Melhor Numero de Iterações : 256.00 | Media do Numero de Iterações: 781.60]
+*************************************************************************************************************
+Custo Inicial : 1402.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 24.13 - Numero de Iterações da Melhor Solução : 428
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1328.00   --  Best Cost = 1312
+
+Custo Inicial : 1385.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 22.06 - Numero de Iterações da Melhor Solução : 385
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1321.00   --  Best Cost = 1312
+
+Custo Inicial : 1519.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 4.76 - Numero de Iterações da Melhor Solução : 77
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1329.00   --  Best Cost = 1312
+
+Custo Inicial : 1439.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 33.93 - Numero de Iterações da Melhor Solução : 610
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1320.00   --  Best Cost = 1312
+
+Custo Inicial : 1367.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 41.16 - Numero de Iterações da Melhor Solução : 732
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1327.00   --  Best Cost = 1312
+
+*************************************************************************************************************
+[Melhor Custo : 1320.00 | Media do Custo: 1325.00]
+[Melhor Tempo : 4.76 | Media de Tempo: 25.21]
+[Melhor Numero de Iterações : 77.00 | Media do Numero de Iterações: 446.40]
+*************************************************************************************************************
+Custo Inicial : 1395.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 156.67 - Numero de Iterações da Melhor Solução : 930
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1246.00   --  Best Cost = 1221
+
+Custo Inicial : 1418.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 266.35 - Numero de Iterações da Melhor Solução : 1576
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1270.00   --  Best Cost = 1221
+
+Custo Inicial : 1389.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 289.53 - Numero de Iterações da Melhor Solução : 1782
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1259.00   --  Best Cost = 1221
+
+Custo Inicial : 1358.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 29.08 - Numero de Iterações da Melhor Solução : 175
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1262.00   --  Best Cost = 1221
+
+Custo Inicial : 1390.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 182.81 - Numero de Iterações da Melhor Solução : 1084
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1287.00   --  Best Cost = 1221
+
+*************************************************************************************************************
+[Melhor Custo : 1246.00 | Media do Custo: 1264.80]
+[Melhor Tempo : 29.08 | Media de Tempo: 184.89]
+[Melhor Numero de Iterações : 175.00 | Media do Numero de Iterações: 1109.40]
+*************************************************************************************************************
+-----------------------------------------------------------------------------------
+Lambda : 0.55 - Penalidade : 10
+Custo Inicial : 868.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 2.62 - Numero de Iterações da Melhor Solução : 122
+ Nome da Instancia: A-n32-k5 -> Total Cost = 785.00   --  Best Cost = 784
+
+Custo Inicial : 921.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 2.61 - Numero de Iterações da Melhor Solução : 117
+ Nome da Instancia: A-n32-k5 -> Total Cost = 788.00   --  Best Cost = 784
+
+Custo Inicial : 888.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 14.80 - Numero de Iterações da Melhor Solução : 692
+ Nome da Instancia: A-n32-k5 -> Total Cost = 789.00   --  Best Cost = 784
+
+Custo Inicial : 934.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 8.61 - Numero de Iterações da Melhor Solução : 410
+ Nome da Instancia: A-n32-k5 -> Total Cost = 793.00   --  Best Cost = 784
+
+Custo Inicial : 972.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 222.27 - Numero de Iterações da Melhor Solução : 10915
+ Nome da Instancia: A-n32-k5 -> Total Cost = 790.00   --  Best Cost = 784
+
+*************************************************************************************************************
+[Melhor Custo : 785.00 | Media do Custo: 789.00]
+[Melhor Tempo : 2.61 | Media de Tempo: 50.18]
+[Melhor Numero de Iterações : 117.00 | Media do Numero de Iterações: 2451.20]
+*************************************************************************************************************
+Custo Inicial : 1103.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 44.38 - Numero de Iterações da Melhor Solução : 867
+ Nome da Instancia: A-n46-k7 -> Total Cost = 929.00   --  Best Cost = 914
+
+Custo Inicial : 1021.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 28.42 - Numero de Iterações da Melhor Solução : 534
+ Nome da Instancia: A-n46-k7 -> Total Cost = 927.00   --  Best Cost = 914
+
+Custo Inicial : 999.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 28.18 - Numero de Iterações da Melhor Solução : 549
+ Nome da Instancia: A-n46-k7 -> Total Cost = 926.00   --  Best Cost = 914
+
+Custo Inicial : 1207.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 31.84 - Numero de Iterações da Melhor Solução : 601
+ Nome da Instancia: A-n46-k7 -> Total Cost = 923.00   --  Best Cost = 914
+
+Custo Inicial : 1048.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 0.64 - Numero de Iterações da Melhor Solução : 7
+ Nome da Instancia: A-n46-k7 -> Total Cost = 928.00   --  Best Cost = 914
+
+*************************************************************************************************************
+[Melhor Custo : 923.00 | Media do Custo: 926.60]
+[Melhor Tempo : 0.64 | Media de Tempo: 26.69]
+[Melhor Numero de Iterações : 7.00 | Media do Numero de Iterações: 511.60]
+*************************************************************************************************************
+Custo Inicial : 1921.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 163.29 - Numero de Iterações da Melhor Solução : 803
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1815.00   --  Best Cost = 1763
+
+Custo Inicial : 2132.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 251.88 - Numero de Iterações da Melhor Solução : 1193
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1825.00   --  Best Cost = 1763
+
+Custo Inicial : 1913.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 15.23 - Numero de Iterações da Melhor Solução : 76
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1811.00   --  Best Cost = 1763
+
+Custo Inicial : 2027.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 135.43 - Numero de Iterações da Melhor Solução : 677
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1819.00   --  Best Cost = 1763
+
+Custo Inicial : 2110.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 34.18 - Numero de Iterações da Melhor Solução : 150
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1825.00   --  Best Cost = 1763
+
+*************************************************************************************************************
+[Melhor Custo : 1811.00 | Media do Custo: 1819.00]
+[Melhor Tempo : 15.23 | Media de Tempo: 120.00]
+[Melhor Numero de Iterações : 76.00 | Media do Numero de Iterações: 579.80]
+*************************************************************************************************************
+Custo Inicial : 1448.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 17.52 - Numero de Iterações da Melhor Solução : 282
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1323.00   --  Best Cost = 1312
+
+Custo Inicial : 1418.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 4.40 - Numero de Iterações da Melhor Solução : 59
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1329.00   --  Best Cost = 1312
+
+Custo Inicial : 1420.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 4.34 - Numero de Iterações da Melhor Solução : 59
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1333.00   --  Best Cost = 1312
+
+Custo Inicial : 1389.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 10.28 - Numero de Iterações da Melhor Solução : 153
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1330.00   --  Best Cost = 1312
+
+Custo Inicial : 1359.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 58.64 - Numero de Iterações da Melhor Solução : 923
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1322.00   --  Best Cost = 1312
+
+*************************************************************************************************************
+[Melhor Custo : 1322.00 | Media do Custo: 1327.40]
+[Melhor Tempo : 4.34 | Media de Tempo: 19.03]
+[Melhor Numero de Iterações : 59.00 | Media do Numero de Iterações: 295.20]
+*************************************************************************************************************
+Custo Inicial : 1417.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 66.52 - Numero de Iterações da Melhor Solução : 358
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1273.00   --  Best Cost = 1221
+
+Custo Inicial : 1370.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 74.99 - Numero de Iterações da Melhor Solução : 397
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1256.00   --  Best Cost = 1221
+
+Custo Inicial : 1378.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 264.37 - Numero de Iterações da Melhor Solução : 1460
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1248.00   --  Best Cost = 1221
+
+Custo Inicial : 1449.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 163.25 - Numero de Iterações da Melhor Solução : 913
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1253.00   --  Best Cost = 1221
+
+Custo Inicial : 1372.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 295.29 - Numero de Iterações da Melhor Solução : 1564
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1268.00   --  Best Cost = 1221
+
+*************************************************************************************************************
+[Melhor Custo : 1248.00 | Media do Custo: 1259.60]
+[Melhor Tempo : 66.52 | Media de Tempo: 172.88]
+[Melhor Numero de Iterações : 358.00 | Media do Numero de Iterações: 938.40]
+*************************************************************************************************************
+-----------------------------------------------------------------------------------
+Lambda : 0.95 - Penalidade : 10
+Custo Inicial : 852.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 3.08 - Numero de Iterações da Melhor Solução : 123
+ Nome da Instancia: A-n32-k5 -> Total Cost = 787.00   --  Best Cost = 784
+
+Custo Inicial : 930.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 0.09 - Numero de Iterações da Melhor Solução : 1
+ Nome da Instancia: A-n32-k5 -> Total Cost = 800.00   --  Best Cost = 784
+
+Custo Inicial : 892.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 1.29 - Numero de Iterações da Melhor Solução : 58
+ Nome da Instancia: A-n32-k5 -> Total Cost = 784.00   --  Best Cost = 784
+
+Custo Inicial : 917.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 30.69 - Numero de Iterações da Melhor Solução : 1307
+ Nome da Instancia: A-n32-k5 -> Total Cost = 791.00   --  Best Cost = 784
+
+Custo Inicial : 859.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 0.70 - Numero de Iterações da Melhor Solução : 30
+ Nome da Instancia: A-n32-k5 -> Total Cost = 789.00   --  Best Cost = 784
+
+*************************************************************************************************************
+[Melhor Custo : 784.00 | Media do Custo: 790.20]
+[Melhor Tempo : 0.09 | Media de Tempo: 7.17]
+[Melhor Numero de Iterações : 1.00 | Media do Numero de Iterações: 303.80]
+*************************************************************************************************************
+Custo Inicial : 1041.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 9.17 - Numero de Iterações da Melhor Solução : 171
+ Nome da Instancia: A-n46-k7 -> Total Cost = 932.00   --  Best Cost = 914
+
+Custo Inicial : 1018.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 18.79 - Numero de Iterações da Melhor Solução : 351
+ Nome da Instancia: A-n46-k7 -> Total Cost = 938.00   --  Best Cost = 914
+
+Custo Inicial : 1051.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 6.56 - Numero de Iterações da Melhor Solução : 112
+ Nome da Instancia: A-n46-k7 -> Total Cost = 921.00   --  Best Cost = 914
+
+Custo Inicial : 1045.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 166.78 - Numero de Iterações da Melhor Solução : 3220
+ Nome da Instancia: A-n46-k7 -> Total Cost = 931.00   --  Best Cost = 914
+
+Custo Inicial : 1036.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 3.35 - Numero de Iterações da Melhor Solução : 60
+ Nome da Instancia: A-n46-k7 -> Total Cost = 928.00   --  Best Cost = 914
+
+*************************************************************************************************************
+[Melhor Custo : 921.00 | Media do Custo: 930.00]
+[Melhor Tempo : 3.35 | Media de Tempo: 40.93]
+[Melhor Numero de Iterações : 60.00 | Media do Numero de Iterações: 782.80]
+*************************************************************************************************************
+Custo Inicial : 1998.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 218.92 - Numero de Iterações da Melhor Solução : 1044
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1829.00   --  Best Cost = 1763
+
+Custo Inicial : 2014.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 126.96 - Numero de Iterações da Melhor Solução : 599
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1815.00   --  Best Cost = 1763
+
+Custo Inicial : 2093.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 219.02 - Numero de Iterações da Melhor Solução : 1048
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1819.00   --  Best Cost = 1763
+
+Custo Inicial : 2007.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 227.09 - Numero de Iterações da Melhor Solução : 1069
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1827.00   --  Best Cost = 1763
+
+Custo Inicial : 2039.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 196.33 - Numero de Iterações da Melhor Solução : 940
+ Nome da Instancia: A-n80-k10 -> Total Cost = 1821.00   --  Best Cost = 1763
+
+*************************************************************************************************************
+[Melhor Custo : 1815.00 | Media do Custo: 1822.20]
+[Melhor Tempo : 126.96 | Media de Tempo: 197.66]
+[Melhor Numero de Iterações : 599.00 | Media do Numero de Iterações: 940.00]
+*************************************************************************************************************
+Custo Inicial : 1414.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 10.26 - Numero de Iterações da Melhor Solução : 138
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1331.00   --  Best Cost = 1312
+
+Custo Inicial : 1355.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 22.05 - Numero de Iterações da Melhor Solução : 316
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1335.00   --  Best Cost = 1312
+
+Custo Inicial : 1456.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 10.12 - Numero de Iterações da Melhor Solução : 146
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1327.00   --  Best Cost = 1312
+
+Custo Inicial : 1381.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 8.97 - Numero de Iterações da Melhor Solução : 128
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1327.00   --  Best Cost = 1312
+
+Custo Inicial : 1376.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 1.57 - Numero de Iterações da Melhor Solução : 19
+ Nome da Instancia: B-n50-k8 -> Total Cost = 1331.00   --  Best Cost = 1312
+
+*************************************************************************************************************
+[Melhor Custo : 1327.00 | Media do Custo: 1330.20]
+[Melhor Tempo : 1.57 | Media de Tempo: 10.59]
+[Melhor Numero de Iterações : 19.00 | Media do Numero de Iterações: 149.40]
+*************************************************************************************************************
+Custo Inicial : 1373.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 180.33 - Numero de Iterações da Melhor Solução : 905
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1258.00   --  Best Cost = 1221
+
+Custo Inicial : 1427.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 163.73 - Numero de Iterações da Melhor Solução : 849
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1267.00   --  Best Cost = 1221
+
+Custo Inicial : 1471.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 67.85 - Numero de Iterações da Melhor Solução : 348
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1254.00   --  Best Cost = 1221
+
+Custo Inicial : 1444.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 79.71 - Numero de Iterações da Melhor Solução : 422
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1262.00   --  Best Cost = 1221
+
+Custo Inicial : 1394.0
+*****\/|v|\/*****
+Tempo para a melhor Solução: 50.80 - Numero de Iterações da Melhor Solução : 254
+ Nome da Instancia: B-n78-k10 -> Total Cost = 1260.00   --  Best Cost = 1221
+
+*************************************************************************************************************
+[Melhor Custo : 1254.00 | Media do Custo: 1260.20]
+[Melhor Tempo : 50.80 | Media de Tempo: 108.48]
+[Melhor Numero de Iterações : 254.00 | Media do Numero de Iterações: 555.60]
+*************************************************************************************************************

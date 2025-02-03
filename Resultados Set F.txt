@@ -1,0 +1,21 @@
+*************************************************************************************************************
+ Nome da Instancia: F-n45-k4
+[Melhor Custo: 724.00 | Media do Custo: 729.60 | Melhor Custo Possivel: 724.00]
+[Melhor Tempo: 8.17 | Media de Tempo: 47.50]
+[Melhor Numero de Iterações: 129.00 | Media do Numero de Iterações: 699.20]
+[Melhor Gap: 0.00000 | Media da Gap: 0.00773]
+*************************************************************************************************************
+*************************************************************************************************************
+ Nome da Instancia: F-n72-k4
+[Melhor Custo: 243.00 | Media do Custo: 250.00 | Melhor Custo Possivel: 237.00]
+[Melhor Tempo: 109.01 | Media de Tempo: 191.67]
+[Melhor Numero de Iterações: 365.00 | Media do Numero de Iterações: 650.80]
+[Melhor Gap: 0.02532 | Media da Gap: 0.05485]
+*************************************************************************************************************
+*************************************************************************************************************
+ Nome da Instancia: F-n135-k7
+[Melhor Custo: 1218.00 | Media do Custo: 1307.80 | Melhor Custo Possivel: 1162.00]
+[Melhor Tempo: 57.55 | Media de Tempo: 148.16]
+[Melhor Numero de Iterações: 34.00 | Media do Numero de Iterações: 105.00]
+[Melhor Gap: 0.04819 | Media da Gap: 0.12547]
+*************************************************************************************************************
