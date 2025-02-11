@@ -1,10 +1,8 @@
 import numpy as np
-import time
-import math
 import re
-import copy
 from Utilities import euclidean_distance, calculate_solution_cost
 from Guided_Local_Search import guided_local_search
+from Grafh import plot_grapfh
 
 def parse_vrp_file(file_path):
     """
@@ -39,11 +37,9 @@ def parse_vrp_file(file_path):
             if line.startswith("NAME"):
                 instance["name"] = line.split(":")[1].strip()
             elif line.startswith("COMMENT"):
-                # Extracting number of vehicles and optimal value from the comment line
                 match = re.search(r"\((.*?)\)", line)
                 if match:
                     comment_content = match.group(1)
-                    # Extract number of vehicles and optimal value from the comment
                     parts = comment_content.split(", ")
                     for part in parts:
                         if "No of trucks" in part:
@@ -79,12 +75,22 @@ def parse_vrp_file(file_path):
         instance["vehicle_capacity"] = [0] * instance["num_vehicles"]
     return instance
 
-def get_path_instance(file_path, lam, Penalidade, iterations=5):
+def get_path_instance(file_path, lam, Penalidade, iterations=1):
+    """
+    Processes a TXT file and create the instance obect and runs multiple iterations of the main function.
+
+    Parameters:
+    - file_path (str): Path to the file containing the VRP problem instances.
+    - lam (float): Adjustment parameter used in the main function.
+    - Penalidade (float): Penalty applied during the algorithm execution.
+    - iterations (int, optional): Number of iterations to run for each instance (default: 1).
+
+    This function reads a path of files of instances line by line, processes each instance, 
+    by calling the function of hte cration of the instace object, 
+    executes the main function multiple times, and logs the results to a file.
+    """
     with open(file_path, "r") as file:
         lines = file.readlines()
-        # print("-----------------------------------------------------------------------------------")
-        # print(f"Lambda : {lam} - Penalidade : {Penalidade}")
-        section = None
         for line in lines:
                 All_Iteration = 0
                 All_Time = 0
@@ -95,6 +101,7 @@ def get_path_instance(file_path, lam, Penalidade, iterations=5):
                 for i in range(iterations):
                     line = line.strip()
                     instance = parse_vrp_file(line)
+                    print(instance)
                     Cost,Time,Iteration = main_function(instance, lam, Penalidade)
                     name = instance["name"]
                     Benchmark = instance["optimal_value"]
@@ -125,24 +132,14 @@ def main_function(Instance, Lambda, Penalidade):
         for j in range(Instance["dimension"]):
             distance_matrix[i+1][j+1] = euclidean_distance(Instance["coordinates"][i], Instance["coordinates"][j])      
     distance_matrix = np.round(distance_matrix, 0)
-    # Run Guided Local Search
     final_solution, time, iteration = guided_local_search(Instance, distance_matrix, Lambda, Penalidade)
-
+    # plot_grapfh(Instance, distance_matrix, Lambda, Penalidade)
     Total_Cost = calculate_solution_cost(final_solution, distance_matrix, 1)
-    # Print final solution
-    best_cost = Instance["optimal_value"]
-    name = Instance["name"]
-    for v, route in enumerate(final_solution):
-        route_cost = 0
-        for i in range(len(route) - 1):
-            route_cost += distance_matrix[route[i]][route[i + 1]]
-        #print(f"Vehicle {v + 1}: Route = {route}, Cost = {route_cost}")
-    #print(f" Nome da Instancia: {name} -> Total Cost = {Total_Cost:.2f}   --  Best Cost = {best_cost}\n")
     return Total_Cost, time, iteration 
 
 
 vrp_file_path = "..\Lista de Execucao.txt"
-get_path_instance(vrp_file_path,0.55,5)
+get_path_instance(vrp_file_path,0.3,1)
 
 
 

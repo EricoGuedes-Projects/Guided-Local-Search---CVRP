@@ -1,26 +1,8 @@
 import numpy as np
 import time
-import math
-import re
 import copy
 from Utilities import calculate_solution_cost, calculate_custumer_number
 from Local_Search import local_search
-
-
-def create_initial_solution(Instance):
-    #solution = [[22, 32, 20, 18, 14, 8, 27],[13, 2, 17, 31],[28, 25],[30, 19, 9, 10, 23, 16, 11, 26, 6, 21],[15, 29, 12, 5, 24, 4, 3, 7]]
-    solution = [[] for _ in range(Instance["num_vehicles"])]
-    remaining_customers = list(range(2, Instance["dimension"] + 1))
-    #return solution
-    for customer in remaining_customers:
-        demand = Instance["demands"][customer - 1]
-        for vehicle in range(Instance["num_vehicles"]):
-            if Instance["vehicle_capacity"][vehicle] + demand <= Instance["capacity"]:
-                solution[vehicle].append(customer)
-                Instance["vehicle_capacity"][vehicle] += demand
-                break
-    return solution
-
 import random
 
 def create_random_initial_solution(Instance):
@@ -115,22 +97,17 @@ def apply_gls_penalty(distance_matrix, penalty_matrix, lambda_value, Penalidade)
 # Guided Local Search method
 def guided_local_search(Instance, distance_matrix, LAMBDA, Penalidade, time_limit=300):
     Iterations = 0
-    """Perform Guided Local Search (GLS) to solve the VRP.""" 
+    """Perform Guided Local Search (GLS) to solve the CVRP.""" 
 
     penalyzed_distance_matrix = np.copy(distance_matrix)
 
     penalties = np.zeros_like(penalyzed_distance_matrix)
 
     # Create the initial solution
-    #initial_solution = create_initial_solution(Instance)
     initial_solution = create_random_initial_solution(Instance)
-    # print(initial_solution)
-    #return initial_solution
     solution = local_search(initial_solution, penalyzed_distance_matrix, Instance)
     Best_Cost = calculate_solution_cost(solution, distance_matrix, Instance["depot"])
     Best_Solution = copy.deepcopy(solution)
-    # print(f"Custo Inicial : {Best_Cost}")
-    # Start timer
     start_time = time.time()
     time_best = 0
     Iteration_best = 0
@@ -144,7 +121,6 @@ def guided_local_search(Instance, distance_matrix, LAMBDA, Penalidade, time_limi
 
 
         # Update the distance matrix with penalties
-        # lambda_value = LAMBDA * abs(Best_Cost) / len(features)
         penalyzed_distance_matrix = apply_gls_penalty(distance_matrix, penalties, LAMBDA, Penalidade)
 
         # Perform local search
@@ -158,6 +134,4 @@ def guided_local_search(Instance, distance_matrix, LAMBDA, Penalidade, time_limi
             Best_Solution = copy.deepcopy(solution)
         # Perform a final local search on the best solution
     Best_Solution = local_search(Best_Solution, distance_matrix, Instance)
-    # print("*****\/|v|\/*****")
-    # print(f"Tempo para a melhor Solução: {time_best:.2f} - Numero de Iterações da Melhor Solução : {Iteration_best}")
     return Best_Solution, time_best, Iteration_best

@@ -1,9 +1,9 @@
 *************************************************************************************************************
  Nome da Instancia: A-n32-k5
-[Melhor Custo: 786.00 | Media do Custo: 787.40 | Melhor Custo Possivel: 784.00]
-[Melhor Tempo: 0.23 | Media de Tempo: 17.40]
-[Melhor Numero de Iterações: 8.00 | Media do Numero de Iterações: 815.20]
-[Melhor Gap: 0.00255 | Media da Gap: 0.00434]
+[Melhor Custo: 784.00 | Media do Custo: 786.00 | Melhor Custo Possivel: 784.00]
+[Melhor Tempo: 0.35 | Media de Tempo: 34.78]
+[Melhor Numero de Iterações: 16.00 | Media do Numero de Iterações: 1407.60]
+[Melhor Gap: 0.00000 | Media da Gap: 0.00255]
 *************************************************************************************************************
 *************************************************************************************************************
  Nome da Instancia: A-n33-k5
@@ -28,10 +28,10 @@
 *************************************************************************************************************
 *************************************************************************************************************
  Nome da Instancia: A-n36-k5
-[Melhor Custo: 803.00 | Media do Custo: 807.20 | Melhor Custo Possivel: 799.00]
-[Melhor Tempo: 4.21 | Media de Tempo: 31.37]
-[Melhor Numero de Iterações: 151.00 | Media do Numero de Iterações: 1157.60]
-[Melhor Gap: 0.00501 | Media da Gap: 0.01026]
+[Melhor Custo: 799.00 | Media do Custo: 808.60 | Melhor Custo Possivel: 799.00]
+[Melhor Tempo: 16.80 | Media de Tempo: 25.66]
+[Melhor Numero de Iterações: 434.00 | Media do Numero de Iterações: 669.40]
+[Melhor Gap: 0.00000 | Media da Gap: 0.01202]
 *************************************************************************************************************
 *************************************************************************************************************
  Nome da Instancia: A-n37-k5
